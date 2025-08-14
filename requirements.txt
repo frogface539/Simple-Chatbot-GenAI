@@ -1,0 +1,6 @@
+langsmith
+langchain_community
+dotenv
+streamlit
+langchain_core
+langchain  

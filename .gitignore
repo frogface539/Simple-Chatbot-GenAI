@@ -1,0 +1,45 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+.envrc
+
+# Environment variables
+.env
+*.env
+
+# Streamlit config
+.streamlit/secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+.history/
+
+# LangChain / LangSmith local cache
+.langchain/
+
+# Ollama model cache (optional, if big)
+.ollama/
+
+# Temporary files
+tmp/
+temp/
